@@ -4,5 +4,9 @@
 A Simple Example of Django CRUD (Create, Retrieve, Update and Delete) Application Using Functional Based Views
 
 Demo :
-https://user-images.githubusercontent.com/77478828/197498647-e2ca7783-c412-4434-bf64-29ff5dd1cb4a.mp4
+
+
+
+
+https://user-images.githubusercontent.com/77478828/197499042-5fd4f140-e5f5-4ffb-b408-da6ef33f6cda.mp4
 
